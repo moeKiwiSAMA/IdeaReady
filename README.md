@@ -1,6 +1,6 @@
-# EnvReady
+# IDEA
 
-This image contains common utils I use everyday.
+IDEA image contains common utils I use everyday.
 
 ## Start
 
